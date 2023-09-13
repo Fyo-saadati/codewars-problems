@@ -35,7 +35,6 @@ def parenthesesRemover(formula):
     if (number1 := parenthese[:parenthese.index("(")]) in {"+":'1', "-":'-1', "":'1', "1":"+1"}:
         number1 ={"+":'1', "-":'-1', "":'1', "1": "+1"}[number1]
     allVariable= [x for x in re.findall("([-+]*[0-9]*[a-zA-Z]*)", parenthese[parenthese.index("("):]) if x !=""]
-    
     for i, var in enumerate(allVariable):
         number2 = ''.join(re.findall("([+-]*[0-9]*)", var))
         par= var.replace(number2, "")
@@ -89,24 +88,16 @@ def patternChecker(pattern):
 def examplesSimplify(examples):
     pattern ={example[-1]:example[:-2] for example in [''.join(string.split()) for string in examples]}
     pattern = doubleRemover(pattern)
-    a= 0
     while patternChecker(pattern) == True:
         for key1 in pattern:
             for key2 in pattern:
                 if "(" in pattern[key2]:
                     replaced = parenthesesRemover(pattern[key2])
                     pattern[key2]=pattern[key2].replace(replaced[1], replaced[0] )
-                    a +=1
-                    print(f"{a}): {replaced[0]}--{pattern}")
-                    print(".............................")
                 elif key1 in pattern[key2]:
                     pattern[key2]=(replaced:=replacment(pattern[key2], pattern))
                     replaced = parenthesesRemover(replaced)
                     pattern[key2]=pattern[key2].replace(replaced[1], replaced[0] )
-                    a +=1
-                    print(f"{a}): {replaced[0]}--{pattern}")
-                    print(".............................")
-                
     return pattern
 
 def doubleRemover(pattern):
@@ -132,6 +123,6 @@ def simplify(examples,formula):
 
 
 
-print(simplify(['y + 6Y - k - 6 K = f', 'F + k + Y - y = K', 'Y = k',"y = Y", "y + Y = F"],"k - f + y",))
+print(simplify(['y + 6Y - k -         6 K = f', 'F + k + Y - y = K', 'Y = k',"y = Y", "y + Y = F"],"k - f+5(10(-25(12(K+2(25Y+y))))) + y",))
 
 
