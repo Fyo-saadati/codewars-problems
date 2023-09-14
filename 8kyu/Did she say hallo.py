@@ -25,4 +25,3 @@ def validate_hello(greetings):
             return True
     return False
              
-validate_hello(0)
