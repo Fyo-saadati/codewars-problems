@@ -30,4 +30,4 @@ def series_sum(n):
     return result
 
 
-print(series_sum(1))
+
