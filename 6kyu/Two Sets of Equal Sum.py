@@ -47,3 +47,18 @@ def create_two_sets_of_equal_sum(n):
     return [[*range(1,n//4+1), *range(n*3//4+1,n+1)], [*range(n//4+1,n*3//4+1)]]
          
     
+    # you have a list:
+lst = [2, 2, 2]
+# you want multiplying the numbers
+
+#you should write a variable and give it the number <1> value:
+
+var =1
+# then you write a loop and do it this shit :)  :
+
+for number in lst:
+	var *= number
+print(var)
+# congratulations! you multiplayed that numbers
+# go eat and sleep well and say : i am a new guy in programming. i'll get a the biggest one!
+# have a nice day
