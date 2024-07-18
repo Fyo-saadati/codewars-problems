@@ -11,10 +11,8 @@ follow [me](https://www.codewars.com/users/Fyo%20saadati)!
 
 | Kata(s) | Solution(s) | Subject | CW Link |
 |--|--|--|--|
-| [**Simplifying**](4kyuKatas/Human_readable_duration_format.md)  | 1 | `str`, `game`, `puzzel` | [link](https://www.codewars.com/kata/57f2b753e3b78621da0020e8) |
+| [**Simplifying**](python/3kyu/Simplifying.py)  | 1 | `str`, `game`, `puzzel` | [link](https://www.codewars.com/kata/57f2b753e3b78621da0020e8) |
 
 
 <br>
-
----
 
