@@ -45,6 +45,3 @@ def sum_of_squares(n):
         else:
             largest_squre -= 1
     return 3
-
-
-print(sum_of_squares(17))
