@@ -11,10 +11,11 @@ To make it clearer, the picture below represents the cube after (from left to ri
 -- return a table with:
 --   this column and your result in a column named 'res'
 
-
+```
 SELECT n,
 CASE
   WHEN n < 1 THEN 1
   ELSE CAST(POWER(n + 1 , 3) - POWER(n - 1 , 3) as int)
 END AS res
 FROM squares
+```
