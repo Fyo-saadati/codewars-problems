@@ -1,7 +1,9 @@
 # IMPORTANT: There is no honor in copying. Please use this repository to learn and improve my solutions.
 ## THANK YOU
 
-follow [me](https://www.codewars.com/users/Fyo%20saadati)!
+follow [me](https://www.codewars.com/users/Fyo%20saadati) in CodeWars!
+<br>
+contact [me](https://t.me/sciencephile)
 
 
 
