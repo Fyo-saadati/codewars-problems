@@ -34,9 +34,6 @@ def sum_of_squares(n):
     if n % 8 == 7:
         return 4
 
-    if sqrt(n / 2) % 1 == 0:
-        return 2
-
     largest_squre = int(sqrt(input_))
     while largest_squre >= 0:
         t = input_ - (largest_squre**2)
