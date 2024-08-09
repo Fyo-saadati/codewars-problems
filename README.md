@@ -1,12 +1,12 @@
 # Codewars Practice
-Codewars Solutions: This repository contains my solutions to various 
+This repository contains my solutions to various 
 programming challenges on Codewars. Each solution is written in the respective 
 language specified by the challenge.
 
-- follow [me](https://www.codewars.com/users/Fyo%20saadati) in CodeWars!
-<br>
-- contact [me](https://t.me/sciencephile)
-<br>
+- follow me [on CodeWars](https://www.codewars.com/users/Fyo%20saadati)
+
+- contact me [on telegram](https://t.me/sciencephile) 
+
 
 
 ## Kata 3kyu
