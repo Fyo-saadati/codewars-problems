@@ -29,9 +29,9 @@ contact [me](https://t.me/sciencephile)
 
 <br>
 
-| Kata(s)                                                               | Solution(s) | Subject                     | CW Link                                                        |
-| --------------------------------------------------------------------- | ----------- | --------------------------- | -------------------------------------------------------------- |
-| [**Sums of Perfect Squares**](python/4kyu/sums_of_perfect_squares.py) | 1           | `MATHEMATICS`<br> `ALGORITHMS` | [link](https://www.codewars.com/kata/5a3af5b1ee1aaeabfe000084) |
+| Kata(s)                                                               | Solution(s) | Subject                     | CW Link                                                        | Solution explanation|
+| --------------------------------------------------------------------- | ----------- | --------------------------- | -------------------------------------------------------------- |-------|
+| [**Sums of Perfect Squares**](python/4kyu/sums_of_perfect_squares.py) | 1           | `MATHEMATICS`<br> `ALGORITHMS` | [link](https://www.codewars.com/kata/5a3af5b1ee1aaeabfe000084) | [link](python/4kyu/sums_of_perfect_squares.md)
 
 
 <br>
