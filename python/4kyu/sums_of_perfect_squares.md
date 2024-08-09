@@ -42,7 +42,7 @@ I will explain how I used this in my solution.
 ### step 1
 I removed all numbers that are already perfect squares using this method:
 
-```
+```python
 if sqrt(n) % 1 == 0:
         return 1
 ```
@@ -89,9 +89,9 @@ then the original number must generally be expressible as a sum of four squares.
 In the following code snippet, we repeatedly divide the given number by four 
 until we obtain the final remainder.
 
-```
-    while n % 4 == 0:
-        n = n / 4
+```python
+while n % 4 == 0:
+    n = n / 4
 ```
 
 
@@ -101,9 +101,9 @@ In the following code snippet, we check whether the final remainder,
  perfect squares.
 
 
- ```
-     if n % 8 == 7:
-        return 4
+```python
+if n % 8 == 7:
+return 4
 ```
 
 > So far, we can definitely identify numbers that are perfect squares 
@@ -134,14 +134,14 @@ combination is confirmed.</p>
 
 This part is responsible for identifying numbers that are composed of two perfect squares.
 
-```
-    largest_square = int(sqrt(input_))
-    while largest_square >= 0:
-        t = input_ - (largest_square**2)
-        if t + largest_square**2 == input_ and sqrt(t) % 1 == 0:
-            return 2
-        else:
-            largest_square -= 1
+```python
+largest_square = int(sqrt(input_))
+while largest_square >= 0:
+    t = input_ - (largest_square**2)
+    if t + largest_square**2 == input_ and sqrt(t) % 1 == 0:
+        return 2
+    else:
+        largest_square -= 1
 ```
 
 ### step 4
