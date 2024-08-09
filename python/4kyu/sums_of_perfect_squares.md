@@ -32,7 +32,7 @@ To see the my solution [**click here**](sums_of_perfect_squares.py)
 for check my solution please [**click here**](https://www.codewars.com/kata/5a3af5b1ee1aaeabfe000084)
 
 
-# Challenge explanation
+# Solution explanation
 According to Lagrange's theorem, we know that all positive numbers can be 
 expressed as a sum of up to 4 perfect squares. Gauss's theorem helps us ensure 
 that a given number is definitely made up of 4 perfect squares. Remember, 
