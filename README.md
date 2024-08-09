@@ -1,9 +1,11 @@
-# Please enable notifications for this repository to stay updated with the latest changes.
-## THANK YOU.
+# Codewars Practice
+Codewars Solutions: This repository contains my solutions to various 
+programming challenges on Codewars. Each solution is written in the respective 
+language specified by the challenge.
 
-follow [me](https://www.codewars.com/users/Fyo%20saadati) in CodeWars!
+- follow [me](https://www.codewars.com/users/Fyo%20saadati) in CodeWars!
 <br>
-contact [me](https://t.me/sciencephile)
+- contact [me](https://t.me/sciencephile)
 
 
 
