@@ -25,7 +25,7 @@ Time constraints:
 
 To see the challenge on Codewars [**click here**](sums_of_perfect_squares.py)
 <br>
-To see the my solution [**click here**](python/4kyu/sums_of_perfect_squares.py)
+To see the my solution [**click here**](sums_of_perfect_squares.py)
 
 
 ## Solution
