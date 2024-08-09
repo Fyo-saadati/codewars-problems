@@ -1,5 +1,5 @@
-# IMPORTANT: There is no honor in copying. Please use this repository to learn and improve my solutions.
-## THANK YOU
+# Please enable notifications for this repository to stay updated with the latest changes.
+## THANK YOU.
 
 follow [me](https://www.codewars.com/users/Fyo%20saadati) in CodeWars!
 <br>
