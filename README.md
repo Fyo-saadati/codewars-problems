@@ -5,7 +5,7 @@ language specified by the challenge.
 
 - follow me [on CodeWars](https://www.codewars.com/users/Fyo%20saadati)
 
-- contact me [on telegram](https://t.me/sciencephile) 
+- contact me [on Telegram](https://t.me/sciencephile) 
 
 
 
@@ -34,6 +34,18 @@ language specified by the challenge.
 | Kata(s)                                                               | Solution(s) | Subject                     | CW Link                                                        | Solution explanation|
 | --------------------------------------------------------------------- | ----------- | --------------------------- | -------------------------------------------------------------- |-------|
 | [**Sums of Perfect Squares**](python/4kyu/sums_of_perfect_squares.py) | 1           | `MATHEMATICS`<br> `ALGORITHMS` | [link](https://www.codewars.com/kata/5a3af5b1ee1aaeabfe000084) | [link](python/4kyu/sums_of_perfect_squares.md)
+
+
+<br>
+
+
+## Kata 5kyu
+
+<br>
+
+| Kata(s)                                                               | Solution(s) | Subject                     | CW Link                                                        | Solution explanation|
+| --------------------------------------------------------------------- | ----------- | --------------------------- | -------------------------------------------------------------- |-------|
+| [**Primes in numbers**](python/5kyu/Primes_in_numbers.py) | 1           | `MATHEMATICS`<br> `Fundamentals` | [link](https://www.codewars.com/kata/54d512e62a5e54c96200019e) | [link](python/5kyu/Primes_in_numbers.md)
 
 
 <br>
